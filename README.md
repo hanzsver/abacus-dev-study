@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [**1회차** 23.11.30] [웹의 구성 요소와 NodeJS의 이해](https://github.com/hanzsver/abacus-dev-study/blob/main/01.%20web/collate.md)
+- [**1회차** 23.11.30] [웹의 구성 요소와 NodeJS의 이해](https://github.com/hanzsver/abacus-dev-study/blob/main/01.%20web/01.description.md)
 
 ## Members
 
