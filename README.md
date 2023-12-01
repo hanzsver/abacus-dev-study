@@ -1,4 +1,4 @@
-# 📝 ABACUS DEV STUDY
+# ABACUS DEV STUDY
 
 > Since 2023.12.01
 
